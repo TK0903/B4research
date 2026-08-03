@@ -1,0 +1,2 @@
+UDADataset/source_physionet_prepared.npz filter=lfs diff=lfs merge=lfs -text
+重み/Physionet_EEGNet/source_physionet_prepared.npz filter=lfs diff=lfs merge=lfs -text
